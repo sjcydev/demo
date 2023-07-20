@@ -224,8 +224,8 @@
     </div>
     <div class="collapse-content">
       <p>
-        Con 507BuyServices ofrecemos comprar tus compras con nuestra tarjeta y
-        nos cancelas el pago por transferencia.
+        Con nosotros te ofrecemos comprar tus compras con nuestra tarjeta y nos
+        cancelas el pago por transferencia.
       </p>
     </div>
   </div>
