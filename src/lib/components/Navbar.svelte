@@ -14,7 +14,7 @@
     : 'bg-transparent absolute top-0'}"
 >
   <a href="/">
-    <img src={Logo} class="w-44" alt="507BuyServices Logo" />
+    <h1 class="text-2xl text-white">Logo</h1>
   </a>
   <ul class="menu menu-vertical lg:menu-horizontal text-base-100">
     <li><a class="hover:bg-white hover:text-black" href="/">Inicio</a></li>

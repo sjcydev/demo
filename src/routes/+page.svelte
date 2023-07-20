@@ -35,24 +35,21 @@
   const sucursales = [
     {
       nombre: "El Dorado",
-      direccion:
-        'Dos Mares Calle Circunvalación, PH Elite 500 local 2, dentro de "Baixing Market"',
-      maps: "https://goo.gl/maps/jmgXCrDSeYiF68YJA",
-      telefono: "+507 6667-2998",
+      direccion: "Direccion 1, El Dorado",
+      maps: "https://maps.google.com",
+      telefono: "+507 6666-6666",
     },
     {
       nombre: "Bethania",
-      direccion: "Camino Real de Bethania, Casa 604",
-      maps: "https://goo.gl/maps/9NfJv5NT9DHfvydm8",
-      telefono: "+507 6364-6566",
+      direccion: "Direccion 2, Bethania",
+      maps: "https://maps.google.com",
+      telefono: "+507 6666-6666",
     },
   ];
 </script>
 
 <svelte:head>
-  <title>
-    507BuyServices - Agencia de Carga Internacional con base en Miami y Panama
-  </title>
+  <title>Agencia de Carga Internacional con base en Miami y Panama</title>
 </svelte:head>
 
 <div
@@ -213,10 +210,10 @@
     </div>
     <div class="collapse-content">
       <p>
-        Al abrir tu casillero con 507BuyServices te enviaremos un correo con
-        toda la información que necesites para hacer tus compras en internet.
-        Tambien tendras la dirección de envio en la cual tienes que poner cada
-        vez que compres por internet.
+        Al abrir tu casillero, te enviaremos un correo con toda la información
+        que necesites para hacer tus compras en internet. Tambien tendras la
+        dirección de envio en la cual tienes que poner cada vez que compres por
+        internet.
       </p>
     </div>
   </div>
@@ -278,9 +275,8 @@
   <div class="grid grid-flow-col gap-4">
     <a href="/tracking" class="link link-hover">Tracking</a>
     <a href="/registrar" class="link link-hover">Abrir Casillero</a>
-    <a href="/tyc" class="link link-hover">Terminos y Condiciones</a>
   </div>
   <div>
-    <p>Copyright © 2023 - Todo los derechos reservados por 507BuyServices</p>
+    <p>Copyright © 2023 - Todo los derechos reservados</p>
   </div>
 </footer>
