@@ -34,7 +34,8 @@
   {$page.url.pathname === '/tyc' ? 'bg-neutral' : 'bg-transparent absolute'}"
 >
   <a href="/">
-    <img src={Logo} class="w-40" alt="Logo" />
+    <!-- <img src={Logo} class="w-40" alt="Logo" /> -->
+    <h1 class="text-xl text-white">Logo</h1>
   </a>
 </nav>
 <nav class="fixed bottom-0 z-50 navbar lg:hidden">
